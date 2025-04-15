@@ -14,7 +14,7 @@ const Navbar = () => {
           to="/"
           sx={{ textDecoration: "none", color: "white", fontWeight: "bold" }}
         >
-          Campaign DApp
+         AdChain Campaign DApp
         </Typography>
 
         {/* Center: Navigation */}
