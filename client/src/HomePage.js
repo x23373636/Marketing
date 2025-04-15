@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <Box textAlign="center" mt={8}>
       <Typography variant="h3" gutterBottom fontWeight="bold">
-        Welcome to the Marketing Campaign DApp
+        Welcome to the Marketing AdChain Campaign DApp
       </Typography>
       <Typography variant="h6" gutterBottom>
         Create, manage, and complete decentralized marketing campaigns.
